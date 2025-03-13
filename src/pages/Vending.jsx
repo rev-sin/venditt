@@ -1,5 +1,9 @@
+import { Button } from "@chakra-ui/react"
+
 const Vending = () => {
-  return <h1>Vending</h1>;
+  return <>
+  <Button>Click me!</Button>
+  </>
 };
 
 export default Vending;
